@@ -13,6 +13,10 @@ This project is created with:
 * CSS3
 * JavaScript / ES6
 
+## Resources
+
+https://javascript30.com/
+
 ## Status
 **In progress.**
 * 20.04.19 - Started.
