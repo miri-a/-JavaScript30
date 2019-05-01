@@ -20,4 +20,5 @@ https://javascript30.com/
 ## Status
 **In progress.**
 * 20.04.19 - Started.
-* 21.04.19 - Added day 1 and 2 challange.
+* 21.04.19 - Added day 1 and 2 challenge.
+* 01.05.19 - Added day 3 challenge.
